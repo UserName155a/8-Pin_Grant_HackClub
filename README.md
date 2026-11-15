@@ -6,7 +6,7 @@ Log excluding most of the part hunting time:
 
 11/11 2:04 - 2:36 : Mapped out schematics and finalized
 
-11/12 20:22 - 23:45 : Trying to figure out how PCB editor works
+11/12 20:22 - 23:45 : Trying to figure out how PCB editor works and trying to connect traces (countless redos)
 
 11/13 12:00 - 13:37 : Redesigned power management portion of sch
 
