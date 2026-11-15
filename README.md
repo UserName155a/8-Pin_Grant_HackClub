@@ -12,4 +12,4 @@ Log excluding most of the part hunting time:
 
 11/14 7:04 - 8:44 : Figuring out how PCB editor works
 
-11/14 20:21 : 21:04 : Finalized PCB design
+11/14 20:21 : 21:54 : Finalized PCB design
