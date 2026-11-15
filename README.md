@@ -8,7 +8,7 @@ Log excluding most of the part hunting time:
 
 11/12 20:22 - 23:45 : Trying to figure out how PCB editor works
 
-11/13 22:00 - 13:37 : Redesigned power management portion of sch
+11/13 12:00 - 13:37 : Redesigned power management portion of sch
 
 11/14 7:04 - 8:44 : Figuring out how PCB editor works
 
