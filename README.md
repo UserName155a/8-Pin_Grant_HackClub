@@ -1,3 +1,6 @@
+BOM found in .csv file
+
+
 Log excluding most of the part hunting time:
 
 11/10 ~23:00 - 11/11 ~00:40 : Working on Joystick project to use as a mouse cursor controller 
