@@ -1,0 +1,15 @@
+Reference	Qty	Value	DNP	Footprint	Datasheet	Source
+BT1	1	Battery_Cell		Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal		
+C1,C2	2	.1uF		Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm		
+C3,C4	2	4.7uF		Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm		
+D1	1	LED		LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm		
+J1	1	USB4135-GF-A		Connector_USB:USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal		https://www.digikey.com/en/products/detail/gct/USB4135-GF-A/16036137
+J2	1	PH1-03-UA		Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal		https://www.digikey.com/en/products/detail/adam-tech/PH1-03-UA/9830289
+R1,R2	2	5.1k		Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal		
+R3	1	220		Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal		
+R4	1	2k		Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal		
+R5,R6	2	4.7k		Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal		
+SW1	1	SW_SPDT		Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled		
+U1	1	CH32V003J4M6		Package_SO:JEITA_SOIC-8_3.9x4.9mm_P1.27mm		https://www.digikey.com/en/products/detail/olimex-ltd/SMD-IC-CH32V003J4M6/26717013?s=N4IgTCBcDaIMYAsDMYBuAGdSQF0C%2BQA
+U2	1	333099 Display OLED I2C White 0.96 INCH SSD1306		333099 Display OLED I2C White 0.96 INCH SSD1306		https://www.digikey.com/en/products/detail/soldered-electronics/333099/21720461?s=N4IgTCBcDaIMwIAwE5kgLoF8g
+U3	1	MCP73831-2-OT		Package_TO_SOT_SMD:SOT-23-5	http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf	https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301
